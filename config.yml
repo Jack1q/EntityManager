@@ -38,6 +38,7 @@ FOX: true
 GHAST: true
 GIANT: true
 GUARDIAN: true
+HOGLIN: true
 HORSE: true
 ILLUSIONER: true
 IRON_GOLEM: true
@@ -62,6 +63,7 @@ PANDA: true
 PARROT: true
 PHANTOM: true
 PIG: true
+PIGLIN: true
 PIG_ZOMBIE: true
 PILLAGER: true
 POLAR_BEAR: true
@@ -85,6 +87,7 @@ SPIDER: true
 SPLASH_POTION: true
 SQUID: true
 STRAY: true
+STRIDER: true
 THROWN_EXP_BOTTLE: true
 TRADER_LLAMA: true
 TRIDENT: true
@@ -99,6 +102,8 @@ WITHER: true
 WITHER_SKELETON: true
 WITHER_SKULL: true
 WOLF: true
+ZOGLIN: true
 ZOMBIE: true
 ZOMBIE_HORSE: true
 ZOMBIE_VILLAGER: true
+ZOMBIFIED_PIGLIN: true
